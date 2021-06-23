@@ -1,1 +1,1 @@
-# 30-days-of-Javascript-Challanges
+# 30-Days-of-Javascript-Challanges
